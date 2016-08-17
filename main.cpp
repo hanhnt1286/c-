@@ -9,7 +9,7 @@ void GetResults ();
 
 int  i, j, life, maxrand;
 char c;
-
+int x;
 
 void
 Start ()
